@@ -1,4 +1,12 @@
-void main(){ // main function
-
-
+class maxmin{
+  int x = 10;
+  int y = 3;
+  
+  if(x>y){
+    System.out.println("Mas number is : " + x);
+   }
+   
+   else{
+    System.out.println("Min number is : " + y);
+   }
 }
